@@ -11,8 +11,24 @@ global.APIKeys = {
 	'https://zenzapis.xyz': 'your key',
 }
 
-global.alivemsg = `📤I am alive now😇
-🤷‍♀️How can I help you?😉` //Costomize Alive Message (type your message in `` )
+global.alivemsg = `🍀*╔═══⃝═⃝═⃝═⃘⃝═⃟♥️⃟═⃘⃝═⃝═⃝═⃝═⃝══╕*🍀
+*❖හේ හේ😋⚡ මම ඔන්ලයින් තමා Cgo🤭♥️*
+*꧁🐉TD DRACO BOT🐉꧂*
+❖*මොනාද Cgo ඔයාට මගෙන් වෙන්නොනි🙃✋පුලුවම් දෙයක්නම් කරලා දෙන්නම්*😁💔
+❖*".menu"*කියලා ගහන්න එතකොට ඔයාලට මගෙන් ගන්න පුලුවම් වැඩ(කමාන්ඩ්)ටික එනවා. 
+
+❖මගේ අයිතිකාරයා- ᳄♥⃪⃝🌹᭄͎͇*ᴛͥʜͣᴜͫsʜᴀɴ*♥⃪⃝🌹᭄͎͇❱❱
+
+මගෙ අයිතිකාරයගෙ යූටියුබ් චැනල් 2 සබ්ස්ක්‍රයිබ් කරන්න👻🙏
+
+❖MUSIC CHANNEL ÷ https://youtube.com/channel/UCMWMLJ6TpD5JiY9Sl0ur1Rw
+❖TECH CHANNEL ÷ https://youtube.com/channel/UCVZs5_5qClGHZo0kxdv6kQw
+
+👻මගේ ගෲප් එක - https://chat.whatsapp.com/J5BDhgXRefpLeU4rknc4Fh
+
+*චරිතයක් උනේ නිකම් නෙවේ මම ගැලෙව්වා මගෙම කට්ට*😌💔
+
+ 🍀*╚═══⃝═⃝═⃝═⃘⃝═⃟♥️⃟═⃘⃝═⃝═⃝═⃝═⃝══╝*🍀` //Costomize Alive Message (type your message in `` )
 
 
 global.autoTyping = false //auto tying in gc (true to on, false to off)
@@ -29,10 +45,10 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owner v card
-global.vcardowner = ['+380944814219'] // owner number
-global.ownername = "😎𝙆.𝙋𝙧𝙖𝙗𝙝𝙖𝙨𝙝𝙖❯❯" // owner name
-global.ytname = "" // yt chanel name
-global.socialm = "GitHub: prabhasha2006" // github or insta name
+global.vcardowner = ['+94765526449'] // owner number
+global.ownername = "᳄♥⃪⃝🌹᭄͎͇ᴛͥʜͣᴜͫsʜᴀɴ♥⃪⃝🌹᭄͎͇" // owner name
+global.ytname = "TDM BEATS" // yt chanel name
+global.socialm = "GitHub: tdreddraco" // github or insta name
 global.location = "India, Mizoram, Aizawl" // location
 
 //bot body 
@@ -43,43 +59,43 @@ global.callblock = "false" // call block "true" / "false" ("true"  to block call
 global.antibad = "false" // To remove bad word senders
 global.antispam = "true" // To remove or block spammers
 global.antilink = "false" // To remove group link sharing peoples
-global.upsongvoice = "false" // true/false \\ bot can upload song as voice note (it use your data and storage bacause auto download) you can put "false" (anyone can't get songs as voice note / your data is not wasted)
+global.upsongvoice = "true" // true/false \\ bot can upload song as voice note (it use your data and storage bacause auto download) you can put "false" (anyone can't get songs as voice note / your data is not wasted)
 global.welcom_msg = "true" // Welcome / Goodbye   [true/false]
 
 
-global.owner = ['+380944814219']
-global.ownertag = '+380944814219' //your tag number
-global.botname = '𝙍𝙀𝘿╺ 𝘿𝙍𝘼𝙂𝙊𝙉 - 𝘉𝘖𝘛' //ur bot name
-global.packname = "Bot Sticker" // sticker packname
-global.author = "𝙍𝙀𝘿╺ 𝘿𝙍𝘼𝙂𝙊𝙉" // sticker author
-global.dragonemoji = '🧩' // Menu emoji
-global.footer = '[ ◉ ʀᴇᴅ-ᴅʀᴀɢᴏɴ-ᴍᴅ ]' //
+global.owner = ['+94765526449']
+global.ownertag = '94765526449' //your tag number
+global.botname = '⚡⃓🐉𝙏𝘿 𝙍𝙀𝘿 𝘿𝙍𝘼𝘾𝙊🐉⃓⚡' //ur bot name
+global.packname = "තුශාන් තමා ඕයි හැදුවෙ😌🤘♥️" // sticker packname
+global.author = "𝙏𝘿 𝙍𝙀𝘿 𝘿𝙍𝘼𝘾𝙊" // sticker author
+global.dragonemoji = '🐉' // Menu emoji
+global.footer = '[ 𝙏𝘿 𝙍𝙀𝘿 𝘿𝙍𝘼𝘾𝙊 ]' //
 
 //database
-global.premium = ['+380944814219'] //ur premium numbers
+global.premium = ['+94765526449'] //ur premium numbers
 
 //other
 global.sessionName = 'session'
 global.antitags = false
 global.prefa = ['','!','.','😂','❤️','💠'] //Command Prefix eg:(.alive ,alive 😂alive)
-global.sp = '💠'
+global.sp = '🐉'
 global.mess = {
-    success: 'Done ✅',
-    admin: 'Only Admins can use it!😉',
-    botAdmin: 'Bot wants to be an Admin😥',
-    owner: 'Only Owner can use this!😉',
-    group: 'Feature Used Only For Groups!',
-    private: 'This Features Only For Private Chat!',
-    bot: 'This Feature Is Only For Bot😝',
-    wait: '👉👈Pleas Wait...',
+    success: 'හරි.✅ එලනේ😋',
+    admin: 'හා හා ඇඩ්මින්ලට විතරයි ඒක!😉',
+    botAdmin: 'මට ඇඩ්මින් ඕනි😥',
+    owner: 'ඒකනම් මගෙ අයිතිකාරයට විතරයි😉',
+    group: 'ඒවා ගෲප් ව්අල' ව්ඉට්,හරයි පාවිච්චි කරන්න පුලුවම්😁'
+    private: 'ඒකනම් ඉන්බොක්ස් විතරයි😁',
+    bot: 'ඒක මට විතරායි😝',
+    wait: 'චුට්ටම චුට්ටක් ඉම්න😁♥️',
     error: 'Error!!! Maybe Api Key Is Expired🤔!',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
-    linkm: 'Where is the link?',
+    linkm: 'මොකක්ද මේ ලින්ක් එක🙄',
     nsfw: 'The nsfw feature has not been activated, please contact the admin to activate',
     banChat: 'The bot was banned in this group, please contact the owner to unban',
-    badwords: '*🚫Bad Words Not Allowed Here !*\n\n⚠️ Warning... ⚠️',
-    spam: '⚠️ [SPAM] Detected ⚠️\n\nThe emergency security system was activated.\n\nPowered By: *ʀᴇᴅ-ᴅʀᴀɢᴏɴ*',
-    caption: 'Generated by: ◉ *ʀᴇᴅ-ᴅʀᴀɢᴏɴ-ʙᴏᴛ*'
+    badwords: '*🚫ඒයි ඒයි නරක වචනනම් කියන්නෙපා මේකේ😡⚠️ Warning... ⚠️',
+    spam: '⚠️ [SPAM] Detected ⚠️\n\nThe emergency security system was activated.\n\nPowered By: *𝙏𝘿 𝙍𝙀𝘿 𝘿𝙍𝘼𝘾𝙊*',
+    caption: 'හැදුවෙ ඉතිම් මම තමා😌♥️🤘හොදයිද?'
 } // END \\
     global.limitawal = {
     premium: "Infinity",
